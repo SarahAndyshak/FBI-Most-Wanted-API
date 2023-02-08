@@ -1,8 +1,8 @@
-# (Application Name)
+# FBI Most Wanted API
 
 #### (Brief Description of Application)
 
-#### By Eliot Gronstal
+#### By Eliot Gronstal and Jackson Levine
 
 ## Technologies Used
 
